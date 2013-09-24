@@ -3,7 +3,7 @@ package JavaNativeClassExample;
 import java.util.ArrayList;
 import java.util.Observable;
 
-import Observer.Observer;
+import Observer.Weather.Observer;
 
 public class WeatherData extends Observable{
 
